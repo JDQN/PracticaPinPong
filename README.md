@@ -18,7 +18,7 @@
 - 🏓 &nbsp; Link del despliegue | <a> https://practica-pin-pong.vercel.app/ </a>
 
 
-<h2>💻 IMG DE GAME-ANSWER-CHOICES 💻</h2>
+<h2>💻 IMG DE GAME PIN-PONG 💻</h2>
 
 <img src="https://github.com/JDQN/PracticaPinPong/blob/main/ima.jpeg" />
 
