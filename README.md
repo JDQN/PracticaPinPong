@@ -1,7 +1,7 @@
-### PracticaPinPong 👋 💻 🤓 🖥
+<h1> 🏓 PracticaPinPong 🏓 </h1>
 
 
-<h2> 👨🏻•💻  PRESENTADO A 👨🏻•💻 </h2>
+<h3> 👨🏻•💻  PRESENTADO A 👨🏻•💻 </h3>
 
 - 👨‍💻 &nbsp; Julian Lasso Coach 
 
