@@ -19,5 +19,5 @@
 
 <h2>💻 IMG DE GAME-ANSWER-CHOICES 💻</h2>
 
-<img src="https://github.com/JDQN/GAME-ANSWER-CHOICES/blob/main/img1.jpeg?raw=true" />
+<img src="https://github.com/JDQN/PracticaPinPong/blob/main/ima.jpeg" />
 
