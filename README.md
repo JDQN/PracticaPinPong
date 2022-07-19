@@ -13,8 +13,8 @@
 
 <h3>🛠 Stack 🛠 </h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 |
-- 💻 &nbsp; JavaScript |
+- 🌐 &nbsp; HTML5 | CSS3 | 
+- 💻 &nbsp; JavaScript | DOM
 - 🏓 &nbsp; Link del despliegue | <a> https://practica-pin-pong.vercel.app/ </a>
 
 
