@@ -15,7 +15,7 @@
 
 - 🌐 &nbsp; HTML5 | CSS3 |
 - 💻 &nbsp; JavaScript |
-- 💻 &nbsp; Link del despliegue | <a> https://practica-pin-pong.vercel.app/ </a>
+- 🏓 &nbsp; Link del despliegue | <a> https://practica-pin-pong.vercel.app/ </a>
 
 
 <h2>💻 IMG DE GAME-ANSWER-CHOICES 💻</h2>
